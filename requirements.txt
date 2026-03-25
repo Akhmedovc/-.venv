@@ -1,0 +1,4 @@
+для правильной работы потребуется:
+pip install fastapi 
+Pip install uvicor
+Активируйте среду .venv\Scripts\activate.ps1
